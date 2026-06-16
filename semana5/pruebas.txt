@@ -1,0 +1,17 @@
+Prueba 1:
+Ruta: http://localhost:3000
+
+Resultado:
+El servidor responde con el mensaje "Servidor activo".
+
+Prueba 2:
+Ruta: http://localhost:3000/saludo
+
+Resultado:
+El servidor responde con el mensaje "Hola comunidad".
+
+Prueba 3:
+Ruta: http://localhost:3000/mensaje/daner
+
+Resultado:
+El servidor responde con el mensaje "Hola daner".
