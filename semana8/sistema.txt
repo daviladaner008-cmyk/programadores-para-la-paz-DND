@@ -1,0 +1,3 @@
+El comando uname -a presenta datos completos del sistema operativo, como el nombre y la versión del kernel, así como la arquitectura del sistema y la fecha de compilación. Es útil para obtener información técnica sobre el sistema que se está empleando.
+
+El nombre del usuario que se encuentra actualmente logueado en la terminal es mostrado por el comando whoami. Es útil para comprobar qué usuario está ejecutando los comandos, en particular en servidores con varios usuarios.
