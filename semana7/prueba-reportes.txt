@@ -1,0 +1,1 @@
+Al revisar la ruta GET /reportes, el servidor muestra una lista con todos los reportes que se han enviado antes usando la ruta POST. Cada informe tiene un identificador, un tipo y una descripción. Los datos se guardan en la memoria, así que estarán disponibles mientras el servidor esté corriendo. Si el servidor se reinicia, la lista de informes se volverá a mostrar vacía.
