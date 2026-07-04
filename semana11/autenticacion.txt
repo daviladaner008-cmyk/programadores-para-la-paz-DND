@@ -1,0 +1,7 @@
+El inicio de sesión es el mecanismo a través del cual un individuo se presenta en una aplicación utilizando sus datos de acceso.
+Esto facilita la validación de su identidad antes de ingresar a funciones específicas.
+Ciertas rutas necesitan estar resguardadas ya que contienen datos confidenciales o permiten realizar actividades significativas.
+Únicamente los usuarios con permisos deberían tener acceso a esas funcionalidades.
+No se deben hacer públicos contraseñas, documentos identificativos, números telefónicos ni direcciones.
+Igualmente, no se deben divulgar tokens, claves de API ni información delicada de la comunidad.
+El proceso de autenticación contribuye a reforzar la seguridad y salvaguardar la privacidad de los usuarios.

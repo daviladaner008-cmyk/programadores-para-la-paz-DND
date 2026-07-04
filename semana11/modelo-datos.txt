@@ -1,0 +1,8 @@
+Entidad: Motivo
+
+Elementos clave:- identificador- nombre- detalle- fecha
+Objetivo:Almacenar los motivos de la comunidad que serán accesibles en la plataforma para que los usuarios puedan informarse y brindarle su apoyo.
+
+Entidad: Asistencia
+Elementos clave:- identificador- motivo_id- participante- fecha
+Objetivo:Documentar los apoyos que obtiene cada motivo y mantener un registro de la involucración de los participantes.
