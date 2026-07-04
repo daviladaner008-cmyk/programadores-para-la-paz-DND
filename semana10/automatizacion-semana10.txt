@@ -1,0 +1,4 @@
+DISEÑO DEL FLUJO DE AUTOMATIZACIÓN (n8n + Telegram)
+1. ¿Cuál es el evento que desencadena el flujo?El flujo es activado a través de un nodo "Webhook" o un nodo de formulario en n8n cada vez que un ciudadano reporta una nueva falla en el sistema.
+2. ¿Qué mensaje se comunica a Telegram?Mensaje: "🚨 ¡Alerta Veeduría! Ha sido creado un nuevo reporte comunitario respecto a servicios públicos. Por favor, accedan al panel de control para verificar el caso."
+3. ¿Qué información debe omitirse por razones de seguridad?Con el fin de proteger la privacidad y la seguridad, NO se compartirán: nombres completos de los denunciantes, números de identificación, direcciones exactas, teléfonos personales, ni contraseñas. Telegram es una plataforma de mensajería externa, por lo que solo se envían alertas generales y la información sensible se consulta en el sistema seguro del proyecto.

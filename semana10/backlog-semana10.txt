@@ -1,0 +1,9 @@
+HISTORIAS DE USUARIO (Clasificadas de Mayor a Menor Importancia)
+
+1. [Importancia Alta] Como un ciudadano, deseo notificar una incidencia en los servicios públicos a través de un formulario en línea para que la veeduría comunitaria tenga constancia del asunto.
+
+2. [Importancia Alta] Como líder de la veeduría, anhelo obtener una notificación automática en Telegram cada vez que se registre un nuevo aviso para poder revisarlo de inmediato.
+
+3. [Importancia Media] Como integrante del equipo de asistencia, me gustaría acceder a la lista de reportes en una base de datos para poder hacer un seguimiento de su situación.
+
+4. [Importancia Baja] Como ciudadano afectado, anhelo recibir un aviso en mi correo electrónico cuando haya un cambio en el estado de mi reporte para estar informado sobre su gestión.

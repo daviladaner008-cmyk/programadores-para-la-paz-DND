@@ -1,0 +1,5 @@
+¿Qué 2 labores del backlog priorizarías?
+1. El reporte ciudadano de fallas en los servicios públicos (Historia 1).2. La notificación automática en Telegram para el coordinador (Historia 2).
+¿Por qué son las más relevantes?
+Porque representan la esencia de la solución comunitaria. Sin que los ciudadanos puedan reportar incidencias, el sistema carece de información para operar. Además, la notificación inmediata en Telegram asegura que la comunidad y el coordinador sean informados en tiempo real, facilitando así una respuesta comunitaria efectiva.
+Definición de Finalizado (Definition of Done - DoD):Una tarea se considerará "finalizada" al cumplir con los siguientes 3 requisitos:1. Funcionalidad operativa: El código funciona sin errores y logra el propósito de la historia de usuario.2. Pruebas satisfactorias: Se realizó el simulacro del flujo (por ejemplo, enviar el formulario o recibir el mensaje) y se ejecutó sin inconvenientes.3. Control de versiones: El código o la configuración está almacenado, documentado y subido al repositorio de Git.
