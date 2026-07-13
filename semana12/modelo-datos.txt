@@ -1,0 +1,18 @@
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+Se utiliza para guardar los datos más relevantes de cada solicitud o causa generada por la comunidad.
+
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Sirve para documentar a las personas que respaldan una causa y conectarlas con la solicitud que les corresponde por medio de causa_id.

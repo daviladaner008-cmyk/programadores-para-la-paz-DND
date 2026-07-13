@@ -1,0 +1,8 @@
+Suceso:
+Una nueva causa es registrada en la plataforma.
+
+Comunicado:
+"Se ha establecido un nuevo caso en la plataforma. "Revísela para saber los detalles".
+
+Datos que no se deben transmitir:
+Números de teléfono, direcciones, correos electrónicos, cédulas y cualquier información personal de los ciudadanos que sea sensible.

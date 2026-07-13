@@ -1,0 +1,6 @@
+1. Un ciudadano crea una causa nueva en la plataforma.
+2. La información de la causa se almacena en la base de datos.
+3. Otras personas apoyan la causa y se involucran.
+4. El sistema anota y contabiliza de forma automática las ayudas que se reciben.
+5. Cuando la condición se cumple, el sistema produce un archivo PDF con la solicitud.
+6. La solicitud tiene la opción de ser enviada o compartida con la entidad pertinente.
